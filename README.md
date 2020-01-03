@@ -8,7 +8,7 @@
 ## Natural-Language Understanding
 
 - [Mise en Place: Unsupervised Interpretation of Instructional Recipes](https://www.aclweb.org/anthology/D15-1114.pdf) (EMNLP 2015)
-- [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015
+- [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015)
 - [A Framework for Procedural Text Understanding](https://www.aclweb.org/anthology/W15-2206.pdf) (IWPT 2015)
 
 ## Information Extraction
@@ -31,7 +31,7 @@
 ## Text Generation
 
 - [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
-- [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf) (EMNLP 2019
+- [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf) (EMNLP 2019)
 - [Procedural Text Generation from a Photo Sequence](https://www.aclweb.org/anthology/W19-8650.pdf) (INLG 2019)
 - [Simulating Action Dynamics with Neural Process Networks](https://arxiv.org/pdf/1711.05313.pdf) (ICLR 2018)
 - [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/pdf/1812.06164.pdf) (CVPR 2018)
@@ -44,7 +44,7 @@
 
 - [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/citation.cfm?id=3080686) (SIGIR 2017)
 - [A Large-Scale Recipe and Meal Data Collection as Infrastructure for Food Research](http://www.lrec-conf.org/proceedings/lrec2016/pdf/320_Paper.pdf) (LREC 2016)
-- [Kusk Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf)
+- [Kusk Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf) (CEA 2016)
 - [Flow Graph Corpus from Recipe Texts](http://www.ar.media.kyoto-u.ac.jp/mori/research/public/LREC14-recipe.pdf) (LREC 2014)
 - [SOUR CREAM: Toward Semantic Processing of Recipes](https://www.cs.cmu.edu/~nasmith/papers/tasse+smith.tr08.pdf)
 
