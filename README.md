@@ -14,11 +14,12 @@
 ## Information Extraction
 
 - [Two-Step Validation in Character-based Ingredient Normalization](https://dl.acm.org/citation.cfm?id=3230589) (CEA 2018)
-- Finding Food Entity Relationships using User-generated Data in Recipe Service (CIKM 2012)
 - [Construction of a Cooking Ontology from Cooking Recipes and Patents](https://www.researchgate.net/profile/Toshiyuki_Takezawa/publication/290083159_Construction_of_a_cooking_ontology_from_cooking_recipes_and_patents/links/573133d608ae6cca19a1fea5/Construction-of-a-cooking-ontology-from-cooking-recipes-and-patents.pdf) (CEA 2014)
+- Finding Food Entity Relationships using User-generated Data in Recipe Service (CIKM 2012)
 
 ## Information Retrieval
 
+- [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
 - [Content-boosted Matrix Factorization for Recommender Systems: Experiments with Recipe Recommendation](http://sas.uwaterloo.ca/~m3zhu/papers/sys031-forbes.pdf) (RecSys 2011)
 - [Substructure Similarity Measurement in Chinese Recipes](http://wwwconference.org/www2008/papers/pdf/p979-wang.pdf) (WWW 2008)
