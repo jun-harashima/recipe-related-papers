@@ -52,6 +52,7 @@
 
 - [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/citation.cfm?id=3080686) (SIGIR 2017)
 - [A Large-Scale Recipe and Meal Data Collection as Infrastructure for Food Research](http://www.lrec-conf.org/proceedings/lrec2016/pdf/320_Paper.pdf) (LREC 2016)
-- [Kusk Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf) (CEA 2016)
+- [KUSK Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf) (CEA 2016)
+- [KUSK Dataset: Toward a Direct Understanding of Recipe Text and Human Cooking Activity](http://ubicomp.org/ubicomp2014/proceedings/ubicomp_adjunct/workshops/CEA/p583-hashimoto.pdf) (CEA 2014)
 - [Flow Graph Corpus from Recipe Texts](http://www.ar.media.kyoto-u.ac.jp/mori/research/public/LREC14-recipe.pdf) (LREC 2014)
 - [SOUR CREAM: Toward Semantic Processing of Recipes](https://www.cs.cmu.edu/~nasmith/papers/tasse+smith.tr08.pdf)
