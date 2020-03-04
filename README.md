@@ -32,6 +32,12 @@
 - [Real World Voice Assistant System for Cooking](https://www.aclweb.org/anthology/W19-8663.pdf) (INLG 2019)
 - [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://www.aclweb.org/anthology/D18-1166.pdf) (EMNLP 2018)
 
+## Text Clustering
+
+- Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images (CEA 2017)
+- Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS 2016)
+- [Clustering for Closely Similar Recipes to Extract Spam Recipes in User-generated Recipe Sites](http://nlp.indsys.chuo-u.ac.jp/pdf/2015/hanai_iiwas2015.pdf) (iiWAS 2015)
+
 ## Text Generation
 
 - [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
