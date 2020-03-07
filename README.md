@@ -35,7 +35,7 @@
 ## Text Clustering
 
 - Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images (CEA 2017)
-- Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS 2016)
+- Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS-2016)
 - [Clustering for Closely Similar Recipes to Extract Spam Recipes in User-generated Recipe Sites](http://nlp.indsys.chuo-u.ac.jp/pdf/2015/hanai_iiwas2015.pdf) (iiWAS 2015)
 
 ## Text Generation
