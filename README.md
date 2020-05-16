@@ -38,6 +38,10 @@
 - Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS-2016)
 - [Clustering for Closely Similar Recipes to Extract Spam Recipes in User-generated Recipe Sites](http://nlp.indsys.chuo-u.ac.jp/pdf/2015/hanai_iiwas2015.pdf) (iiWAS 2015)
 
+## Text Classification
+
+- [Cooking Up a Neural-based Model for Recipe Classification](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.615.pdf) (LREC 2020)
+
 ## Text Generation
 
 - [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
@@ -58,6 +62,8 @@
 
 ## Available Dataset
 
+- [Visual Grounding Annotation of Recipe Flow Graph](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.526.pdf) (LREC 2020)
+- [English Recipe Flow Graph Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.638.pdf) (LREC 2020)
 - [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/citation.cfm?id=3080686) (SIGIR 2017)
 - [A Large-Scale Recipe and Meal Data Collection as Infrastructure for Food Research](http://www.lrec-conf.org/proceedings/lrec2016/pdf/320_Paper.pdf) (LREC 2016)
 - [KUSK Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf) (CEA 2016)
