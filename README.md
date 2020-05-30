@@ -1,3 +1,4 @@
+
 # Recipe-related Papers
 
 ## Named-Entity Recognition
@@ -34,13 +35,14 @@
 
 ## Text Clustering
 
-- Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images (CEA 2017)
+- [Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images](http://dl.acm.org/citation.cfm?doid=3106668.3106676) (CEA 2017)
 - Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS-2016)
 - [Clustering for Closely Similar Recipes to Extract Spam Recipes in User-generated Recipe Sites](http://nlp.indsys.chuo-u.ac.jp/pdf/2015/hanai_iiwas2015.pdf) (iiWAS 2015)
 
 ## Text Classification
 
 - [Cooking Up a Neural-based Model for Recipe Classification](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.615.pdf) (LREC 2020)
+- [Discriminating Practical Recipes Based on Content Characteristics in Popular Social Recipes](https://dl.acm.org/doi/10.1145/2638728.2641326) (CEA 2014)
 
 ## Text Generation
 
