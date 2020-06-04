@@ -58,7 +58,7 @@
 
 ## Other Application
 
-- Calorie Estimation in a Real-World Recipe Service (IAAI-20)
+- [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
 - Recipe Popularity Prediction with Deep Visual-Semantic Fusion (CIKM 2017)
 - [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 
