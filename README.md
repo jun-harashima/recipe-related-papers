@@ -23,6 +23,7 @@
 
 ## Information Retrieval
 
+- Recipe Retrieval with Visual Query of Ingredients (SIGIR 2020)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
 - [Content-boosted Matrix Factorization for Recommender Systems: Experiments with Recipe Recommendation](http://sas.uwaterloo.ca/~m3zhu/papers/sys031-forbes.pdf) (RecSys 2011)
@@ -30,6 +31,8 @@
 
 ## Question-Answering
 
+- Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension (SIGIR 2020)
+- Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance (SIGIR 2020)
 - [Real World Voice Assistant System for Cooking](https://www.aclweb.org/anthology/W19-8663.pdf) (INLG 2019)
 - [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://www.aclweb.org/anthology/D18-1166.pdf) (EMNLP 2018)
 
