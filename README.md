@@ -67,7 +67,7 @@
 
 ## Available Dataset
 
-- A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks (ACL 2020)
+- [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
 - [Visual Grounding Annotation of Recipe Flow Graph](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.526.pdf) (LREC 2020)
 - [English Recipe Flow Graph Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.638.pdf) (LREC 2020)
 - [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/citation.cfm?id=3080686) (SIGIR 2017)
