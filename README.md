@@ -12,6 +12,7 @@
 - [Mise en Place: Unsupervised Interpretation of Instructional Recipes](https://www.aclweb.org/anthology/D15-1114.pdf) (EMNLP 2015)
 - [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015)
 - [A Framework for Procedural Text Understanding](https://www.aclweb.org/anthology/W15-2206.pdf) (IWPT 2015)
+- [Cooking with Semantics](https://www.aclweb.org/anthology/W14-2407.pdf) (SP14)
 - [A Machine Learning Approach to Recipe Text Processing](http://www.ar.media.kyoto-u.ac.jp/mori/research/public/CwC12.pdf) (CwC 2012)
 
 ## Information Extraction
