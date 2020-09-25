@@ -24,6 +24,7 @@
 
 ## Information Retrieval
 
+- [Towards Multi-Language Recipe Personalisation and Recommendation](https://nialltwomey.com/assets/pdf/twomey2020towards.pdf) (RecSys 2020)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
