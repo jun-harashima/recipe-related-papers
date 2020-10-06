@@ -71,6 +71,7 @@
 
 ## Available Dataset
 
+- Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes (AACL-IJCNLP 2020)
 - [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
 - [Visual Grounding Annotation of Recipe Flow Graph](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.527.pdf) (LREC 2020)
 - [English Recipe Flow Graph Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.638.pdf) (LREC 2020)
