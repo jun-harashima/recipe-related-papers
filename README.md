@@ -41,6 +41,7 @@
 
 ## Text Clustering
 
+- Cooking Recipe Analysis based on Sequences of Distributed Representation on Procedure Texts and Associated Images (CEA 2020)
 - [Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images](http://dl.acm.org/citation.cfm?doid=3106668.3106676) (CEA 2017)
 - Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS-2016)
 - [Clustering for Closely Similar Recipes to Extract Spam Recipes in User-generated Recipe Sites](http://nlp.indsys.chuo-u.ac.jp/pdf/2015/hanai_iiwas2015.pdf) (iiWAS 2015)
