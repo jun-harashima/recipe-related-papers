@@ -9,6 +9,7 @@
 
 ## Natural-Language Understanding
 
+- [A Method for Extracting Major Workflow composed of Ingredients, Tools, and Actions from Cooking Procedural Text](http://www.lsta.media.kyoto-u.ac.jp/publications/yamakata-CEA16.pdf) (CEA 2016)
 - [Mise en Place: Unsupervised Interpretation of Instructional Recipes](https://www.aclweb.org/anthology/D15-1114.pdf) (EMNLP 2015)
 - [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015)
 - [A Framework for Procedural Text Understanding](https://www.aclweb.org/anthology/W15-2206.pdf) (IWPT 2015)
