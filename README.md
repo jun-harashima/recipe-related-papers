@@ -18,7 +18,7 @@
 
 ## Information Extraction
 
-- Non-ingredient Detection in User-generated Recipes using the Sequence Tagging Approach (W-NUT 2020)
+- [Non-ingredient Detection in User-generated Recipes using the Sequence Tagging Approach](http://noisy-text.github.io/2020/pdf/2020.d200-1.11.pdf) (W-NUT 2020)
 - Knack for Cooking Extraction from User Generated Recipe Sites (iiWAS 2018)
 - [Two-Step Validation in Character-based Ingredient Normalization](https://dl.acm.org/citation.cfm?id=3230589) (CEA 2018)
 - [Construction of a Cooking Ontology from Cooking Recipes and Patents](https://www.researchgate.net/profile/Toshiyuki_Takezawa/publication/290083159_Construction_of_a_cooking_ontology_from_cooking_recipes_and_patents/links/573133d608ae6cca19a1fea5/Construction-of-a-cooking-ontology-from-cooking-recipes-and-patents.pdf) (CEA 2014)
