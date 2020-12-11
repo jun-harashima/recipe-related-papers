@@ -77,7 +77,7 @@
 
 ## Available Dataset
 
-- Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes (LAW 2020)
+- [Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes](https://www.aclweb.org/anthology/2020.law-1.8.pdf) (LAW 2020)
 - Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes (AACL-IJCNLP 2020)
 - [Multi-modal Cooking Workflow Construction for Food Recipes](https://arxiv.org/pdf/2008.09151.pdf) (ACM MM 2020)
 - [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
