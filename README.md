@@ -18,6 +18,7 @@
 
 ## Information Extraction
 
+- [Extraction Method for a Recipe's Uniqueness based on RecipeFrequency and LexRank of Procedures](http://www.iiwas.org/conferences/iiwas2020/proceedings/a/p241-oonita.pdf) (iiWAS 2020)
 - [Non-ingredient Detection in User-generated Recipes using the Sequence Tagging Approach](https://www.aclweb.org/anthology/2020.wnut-1.11.pdf) (W-NUT 2020)
 - Knack for Cooking Extraction from User Generated Recipe Sites (iiWAS 2018)
 - [Two-Step Validation in Character-based Ingredient Normalization](https://dl.acm.org/citation.cfm?id=3230589) (CEA 2018)
