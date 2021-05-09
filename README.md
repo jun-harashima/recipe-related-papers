@@ -51,6 +51,7 @@
 ## Text Classification
 
 - [Cooking Up a Neural-based Model for Recipe Classification](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.615.pdf) (LREC 2020)
+- [Kissing Cuisines: Exploring Worldwide Culinary Habits on the Web](https://arxiv.org/pdf/1610.08469.pdf) (WWW 2017)
 - [Discriminating Practical Recipes Based on Content Characteristics in Popular Social Recipes](https://dl.acm.org/doi/10.1145/2638728.2641326) (CEA 2014)
 
 ## Text Generation
