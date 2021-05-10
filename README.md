@@ -30,6 +30,7 @@
 - [Towards Multi-Language Recipe Personalisation and Recommendation](https://nialltwomey.com/assets/pdf/twomey2020towards.pdf) (RecSys 2020)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
+- [Health-aware Food Recommender System](https://www.inf.unibz.it/~ricci/papers/p333-ge-2015.pdf) (RecSys 2015)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
 - [Content-boosted Matrix Factorization for Recommender Systems: Experiments with Recipe Recommendation](http://sas.uwaterloo.ca/~m3zhu/papers/sys031-forbes.pdf) (RecSys 2011)
 - [Substructure Similarity Measurement in Chinese Recipes](http://wwwconference.org/www2008/papers/pdf/p979-wang.pdf) (WWW 2008)
