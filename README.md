@@ -27,6 +27,7 @@
 
 ## Information Retrieval
 
+- [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462965) (SIGIR 2021)
 - [Towards Multi-Language Recipe Personalisation and Recommendation](https://nialltwomey.com/assets/pdf/twomey2020towards.pdf) (RecSys 2020)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
