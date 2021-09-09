@@ -74,6 +74,7 @@
 
 ## Other Application
 
+- [SmartRecepies: Towards Cooking and Food Shopping Integration via Mobile Recipes Recommender System](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p144-starychfojtu.pdf) (iiWAS 2020)
 - [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
 - [AI Inspired Recipes: Designing Computationally Creative Food Combos](https://dl.acm.org/doi/10.1145/3290607.3312948) (CHI 2019 Late-Breaking Work)
 - Recipe Popularity Prediction with Deep Visual-Semantic Fusion (CIKM 2017)
