@@ -83,6 +83,7 @@
 
 ## Available Dataset
 
+- [Aligning Actions Across Recipe Graphs](https://aclanthology.org/2021.emnlp-main.554.pdf) (EMNLP 2021)
 - [Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes](https://www.aclweb.org/anthology/2020.law-1.8.pdf) (LAW 2020)
 - [Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes](https://www.aclweb.org/anthology/2020.aacl-main.82.pdf) (AACL-IJCNLP 2020)
 - [Multi-modal Cooking Workflow Construction for Food Recipes](https://arxiv.org/pdf/2008.09151.pdf) (ACM MM 2020)
