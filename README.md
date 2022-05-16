@@ -7,6 +7,11 @@
 - [A Comparison of Cooking Recipe Named Entities between Japanese and English](http://sro.sussex.ac.uk/id/eprint/69061/1/CEA2017_yamakata_FontEmbedded.pdf) (CEA 2017)
 - [Named Entity Recognizer Trainable from Partially Annotated Data](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/SAS-PACLING15.pdf) (PACLING 2015)
 
+## Anaphora Resolution
+
+- [What does it take to bake a cake? The RecipeRef corpus and anaphora resolution in procedural text](https://aclanthology.org/2022.findings-acl.275.pdf) (Findings of ACL 2022)
+- [Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes](https://www.aclweb.org/anthology/2020.aacl-main.82.pdf) (AACL-IJCNLP 2020)
+
 ## Natural-Language Understanding
 
 - [A Method for Extracting Major Workflow composed of Ingredients, Tools, and Actions from Cooking Procedural Text](http://www.lsta.media.kyoto-u.ac.jp/publications/yamakata-CEA16.pdf) (CEA 2016)
@@ -86,7 +91,6 @@
 
 - [Aligning Actions Across Recipe Graphs](https://aclanthology.org/2021.emnlp-main.554.pdf) (EMNLP 2021)
 - [Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes](https://www.aclweb.org/anthology/2020.law-1.8.pdf) (LAW 2020)
-- [Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes](https://www.aclweb.org/anthology/2020.aacl-main.82.pdf) (AACL-IJCNLP 2020)
 - [Multi-modal Cooking Workflow Construction for Food Recipes](https://arxiv.org/pdf/2008.09151.pdf) (ACM MM 2020)
 - [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
 - [Visual Grounding Annotation of Recipe Flow Graph](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.527.pdf) (LREC 2020)
