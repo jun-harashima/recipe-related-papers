@@ -79,6 +79,7 @@
 
 ## Other Application
 
+- [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
 - [SmartRecepies: Towards Cooking and Food Shopping Integration via Mobile Recipes Recommender System](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p144-starychfojtu.pdf) (iiWAS 2020)
 - [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
 - [AI Inspired Recipes: Designing Computationally Creative Food Combos](https://dl.acm.org/doi/10.1145/3290607.3312948) (CHI 2019 Late-Breaking Work)
