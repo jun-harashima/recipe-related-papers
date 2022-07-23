@@ -35,6 +35,7 @@
 - [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462965) (SIGIR 2021)
 - [Towards Multi-Language Recipe Personalisation and Recommendation](https://nialltwomey.com/assets/pdf/twomey2020towards.pdf) (RecSys 2020)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
+- [Exploiting Food Choice Biases for Healthier Recipe Recommendation](https://www.christophtrattner.info/pubs/SIGIR2017.pdf) (SIGIR 2017)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 - [Health-aware Food Recommender System](https://www.inf.unibz.it/~ricci/papers/p333-ge-2015.pdf) (RecSys 2015)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
