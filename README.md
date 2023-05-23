@@ -65,6 +65,7 @@
 
 ## Text Generation
 
+- [Assistive Recipe Editing through Critiquing](https://aclanthology.org/2023.eacl-main.28.pdf) (EACL 2023)
 - [Reading Between the Lines: Exploring Infilling in Visual Narratives](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) (EMNLP 2020)
 - [Routing Enforced Generative Model for Recipe Generation](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) (EMNLP 2020)
 - [Structure-Aware Generation Network for Recipe Generation from Images](https://arxiv.org/pdf/2009.00944.pdf) (ECCV 2020)
