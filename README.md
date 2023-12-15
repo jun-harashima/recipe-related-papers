@@ -14,6 +14,7 @@
 
 ## Natural-Language Understanding
 
+- [Towards Flow Graph Prediction of Open-Domain Procedural Texts](https://aclanthology.org/2023.repl4nlp-1.8.pdf) (RepL4NLP 2023)
 - [A Method for Extracting Major Workflow composed of Ingredients, Tools, and Actions from Cooking Procedural Text](http://www.lsta.media.kyoto-u.ac.jp/publications/yamakata-CEA16.pdf) (CEA 2016)
 - [Mise en Place: Unsupervised Interpretation of Instructional Recipes](https://www.aclweb.org/anthology/D15-1114.pdf) (EMNLP 2015)
 - [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015)
