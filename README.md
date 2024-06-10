@@ -3,6 +3,7 @@
 
 ## Named-Entity Recognition
 
+- [Deep Learning Based Named Entity Recognition Models for Recipes](https://aclanthology.org/2024.lrec-main.406.pdf) (LREC-COLING 2024)
 - [Named Entity Recognition by Character-based Word Classification using a Domain Specific Dictionary](https://easychair.org/publications/preprint_open/3Jfw) (CICLing 2019)
 - [A Comparison of Cooking Recipe Named Entities between Japanese and English](http://sro.sussex.ac.uk/id/eprint/69061/1/CEA2017_yamakata_FontEmbedded.pdf) (CEA 2017)
 - [Named Entity Recognizer Trainable from Partially Annotated Data](http://sap.ist.i.kyoto-u.ac.jp/EN/bib/intl/SAS-PACLING15.pdf) (PACLING 2015)
