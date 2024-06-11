@@ -96,6 +96,7 @@
 
 ## Available Dataset
 
+- [RECIPE4U: Student-ChatGPT Interaction Dataset in EFL Writing Education](https://aclanthology.org/2024.lrec-main.1193.pdf) (LREC-COLING 2024)
 - [Constructing a Culinary Interview Dialogue Corpus with Video Conferencing Tool](https://aclanthology.org/2022.lrec-1.335.pdf) (LREC 2022)
 - [Aligning Actions Across Recipe Graphs](https://aclanthology.org/2021.emnlp-main.554.pdf) (EMNLP 2021)
 - [Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes](https://www.aclweb.org/anthology/2020.law-1.8.pdf) (LAW 2020)
