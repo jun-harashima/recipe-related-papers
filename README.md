@@ -25,6 +25,7 @@
 
 ## Information Extraction
 
+- [CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions](https://aclanthology.org/2024.lrec-main.354.pdf) (LREC-COLING 2024)
 - [Extraction Method for a Recipe's Uniqueness based on Recipe Frequency and LexRank of Procedures](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p241-oonita.pdf) (iiWAS 2020)
 - [Non-ingredient Detection in User-generated Recipes using the Sequence Tagging Approach](https://www.aclweb.org/anthology/2020.wnut-1.11.pdf) (W-NUT 2020)
 - Knack for Cooking Extraction from User Generated Recipe Sites (iiWAS 2018)
