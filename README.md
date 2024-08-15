@@ -84,6 +84,11 @@
 - [Globally Coherent Text Generation with Neural Checklist Models](https://www.aclweb.org/anthology/D16-1032.pdf) (EMNLP 2016)
 - [FlowGraph2Text: Automatic Sentence Skeleton Compilation for Procedural Text Generation](https://www.aclweb.org/anthology/W14-4418.pdf) (INLG 2014)
 
+## Machine Translation
+
+- [Cultural Adaptation of Recipes](https://arxiv.org/pdf/2310.17353) (TACL 2024)
+- [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
+
 ## Other Application
 
 - [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
@@ -92,7 +97,6 @@
 - [AI Inspired Recipes: Designing Computationally Creative Food Combos](https://dl.acm.org/doi/10.1145/3290607.3312948) (CHI 2019 Late-Breaking Work)
 - [RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale](https://dl.acm.org/doi/10.1145/3173574.3174025) (CHI 2018)
 - Recipe Popularity Prediction with Deep Visual-Semantic Fusion (CIKM 2017)
-- [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 - [Feature Extraction and Summarization of Recipes Using Flow Graph](http://www.lsta.media.kyoto-u.ac.jp/mori/research/public/yamakata-SocInfo13.pdf) (SocInfo 2013)
 
 ## Available Dataset
