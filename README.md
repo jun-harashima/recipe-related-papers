@@ -85,10 +85,14 @@
 - [FlowGraph2Text: Automatic Sentence Skeleton Compilation for Procedural Text Generation](https://www.aclweb.org/anthology/W14-4418.pdf) (INLG 2014)
 
 ## Other Application
-
+- [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
+- [RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer](https://dl.acm.org/doi/10.1145/3511808.3557092) (CIKM 2022)
 - [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
+- [RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer](https://ieeexplore.ieee.org/document/9570315) (IEEE Access 2021)
+- [FlavorGraph: A large-scale food-chemical graph for generating food representations and recommending food pairings](https://www.nature.com/articles/s41598-020-79422-8) (Scientific Report 2021)
 - [SmartRecepies: Towards Cooking and Food Shopping Integration via Mobile Recipes Recommender System](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p144-starychfojtu.pdf) (iiWAS 2020)
 - [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
+- [KitcheNette: Predicting and Ranking Food Ingredient Pairings using Siamese Neural Network](https://www.ijcai.org/proceedings/2019/822) (IJCAI 2019)
 - [AI Inspired Recipes: Designing Computationally Creative Food Combos](https://dl.acm.org/doi/10.1145/3290607.3312948) (CHI 2019 Late-Breaking Work)
 - [RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale](https://dl.acm.org/doi/10.1145/3173574.3174025) (CHI 2018)
 - Recipe Popularity Prediction with Deep Visual-Semantic Fusion (CIKM 2017)
