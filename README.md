@@ -16,6 +16,8 @@
 ## Natural-Language Understanding
 
 - [Towards Flow Graph Prediction of Open-Domain Procedural Texts](https://aclanthology.org/2023.repl4nlp-1.8.pdf) (RepL4NLP 2023)
+- [EaT-PIM: Substituting Entities in Procedural Instructions Using Flow Graphs and Embeddings](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_10) (ISWC 2022)
+- [Identifying Ingredient Substitutions Using a Knowledge Graph of Food](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.621766/full) (Frontiers in Artificial Intelligence 2021)
 - [A Method for Extracting Major Workflow composed of Ingredients, Tools, and Actions from Cooking Procedural Text](http://www.lsta.media.kyoto-u.ac.jp/publications/yamakata-CEA16.pdf) (CEA 2016)
 - [Mise en Place: Unsupervised Interpretation of Instructional Recipes](https://www.aclweb.org/anthology/D15-1114.pdf) (EMNLP 2015)
 - [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015)
