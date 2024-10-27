@@ -86,6 +86,10 @@
 - [Globally Coherent Text Generation with Neural Checklist Models](https://www.aclweb.org/anthology/D16-1032.pdf) (EMNLP 2016)
 - [FlowGraph2Text: Automatic Sentence Skeleton Compilation for Procedural Text Generation](https://www.aclweb.org/anthology/W14-4418.pdf) (INLG 2014)
 
+## Multimodal Text and Image Generation
+
+-[ChefFusion: Multimodal Foundation Model Integrating Recipe and Food Image Generation](https://dl.acm.org/doi/pdf/10.1145/3627673.3679885) (CIKM 2024)
+
 ## Machine Translation
 
 - [Cultural Adaptation of Recipes](https://arxiv.org/pdf/2310.17353) (TACL 2024)
