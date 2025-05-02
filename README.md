@@ -92,6 +92,7 @@
 - [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 
 ## Other Application
+- [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
 - [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
 - [RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer](https://dl.acm.org/doi/10.1145/3511808.3557092) (CIKM 2022)
 - [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
