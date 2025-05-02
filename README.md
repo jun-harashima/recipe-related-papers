@@ -95,6 +95,7 @@
 - [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
 - [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
 - [RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer](https://dl.acm.org/doi/10.1145/3511808.3557092) (CIKM 2022)
+- [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/abs/10.1145/3503161.3549203) (MM 2022)
 - [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
 - [RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer](https://ieeexplore.ieee.org/document/9570315) (IEEE Access 2021)
 - [FlavorGraph: A large-scale food-chemical graph for generating food representations and recommending food pairings](https://www.nature.com/articles/s41598-020-79422-8) (Scientific Report 2021)
