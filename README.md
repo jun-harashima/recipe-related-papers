@@ -1,6 +1,9 @@
 
 # Recipe-related Papers
 
+## Workshop
+- [CoGamy2025](https://sites.google.com/uniroma1.it/cogamy2025/home?authuser=0) (ICDM Workshop 2025)
+
 ## Named-Entity Recognition
 
 - [Deep Learning Based Named Entity Recognition Models for Recipes](https://aclanthology.org/2024.lrec-main.406.pdf) (LREC-COLING 2024)
@@ -92,7 +95,10 @@
 - [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 
 ## Other Application
+
+- [Cooking Task Planning using LLM and Verified by Graph Network](https://arxiv.org/abs/2503.21564) (Arxiv 2025)
 - [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
+- [Culinary Class Wars: Evaluating LLMs using ASH in Cuisine Transfer Task](https://arxiv.org/abs/2411.01996) (Arxiv 2024)
 - [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
 - [RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer](https://dl.acm.org/doi/10.1145/3511808.3557092) (CIKM 2022)
 - [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/abs/10.1145/3503161.3549203) (MM 2022)
