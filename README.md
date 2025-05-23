@@ -93,6 +93,7 @@
 
 ## Other Application
 
+- [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629) (arXiv 2025)
 - [Cooking Task Planning using LLM and Verified by Graph Network](https://arxiv.org/abs/2503.21564) (arXiv 2025)
 - [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
 - [Culinary Class Wars: Evaluating LLMs using ASH in Cuisine Transfer Task](https://arxiv.org/abs/2411.01996) (arXiv 2024)
