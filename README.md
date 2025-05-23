@@ -50,7 +50,8 @@
 
 ## Question-Answering
 
-- [Improved Instruction Ordering in Recipe-Grounded Conversation](https://arxiv.org/pdf/2305.17280.pdf) (ACL 2023)
+- [Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding](https://arxiv.org/abs/2505.12605) (arXiv 2025)
+- [Improved Instruction Ordering in Recipe-Grounded Conversation](https://arxiv.org/abs/2305.17280) (ACL 2023)
 - [Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension](https://dl.acm.org/doi/abs/10.1145/3397271.3401247) (SIGIR 2020)
 - [Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance](https://dl.acm.org/doi/abs/10.1145/3397271.3401272) (SIGIR 2020)
 - [Real World Voice Assistant System for Cooking](https://www.aclweb.org/anthology/W19-8663.pdf) (INLG 2019)
