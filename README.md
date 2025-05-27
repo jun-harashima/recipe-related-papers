@@ -50,7 +50,8 @@
 
 ## Question-Answering
 
-- [Improved Instruction Ordering in Recipe-Grounded Conversation](https://arxiv.org/pdf/2305.17280.pdf) (ACL 2023)
+- [Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding](https://arxiv.org/abs/2505.12605) (arXiv 2025)
+- [Improved Instruction Ordering in Recipe-Grounded Conversation](https://arxiv.org/abs/2305.17280) (ACL 2023)
 - [Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension](https://dl.acm.org/doi/abs/10.1145/3397271.3401247) (SIGIR 2020)
 - [Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance](https://dl.acm.org/doi/abs/10.1145/3397271.3401272) (SIGIR 2020)
 - [Real World Voice Assistant System for Cooking](https://www.aclweb.org/anthology/W19-8663.pdf) (INLG 2019)
@@ -92,8 +93,14 @@
 - [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 
 ## Other Application
+
+- [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629) (arXiv 2025)
+- [Cooking Task Planning using LLM and Verified by Graph Network](https://arxiv.org/abs/2503.21564) (arXiv 2025)
+- [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
+- [Culinary Class Wars: Evaluating LLMs using ASH in Cuisine Transfer Task](https://arxiv.org/abs/2411.01996) (arXiv 2024)
 - [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
 - [RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer](https://dl.acm.org/doi/10.1145/3511808.3557092) (CIKM 2022)
+- [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/abs/10.1145/3503161.3549203) (MM 2022)
 - [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
 - [RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer](https://ieeexplore.ieee.org/document/9570315) (IEEE Access 2021)
 - [FlavorGraph: A large-scale food-chemical graph for generating food representations and recommending food pairings](https://www.nature.com/articles/s41598-020-79422-8) (Scientific Report 2021)
@@ -121,3 +128,6 @@
 - [KUSK Dataset: Toward a Direct Understanding of Recipe Text and Human Cooking Activity](http://ubicomp.org/ubicomp2014/proceedings/ubicomp_adjunct/workshops/CEA/p583-hashimoto.pdf) (CEA 2014)
 - [Flow Graph Corpus from Recipe Texts](http://www.ar.media.kyoto-u.ac.jp/mori/research/public/LREC14-recipe.pdf) (LREC 2014)
 - [SOUR CREAM: Toward Semantic Processing of Recipes](https://www.cs.cmu.edu/~nasmith/papers/tasse+smith.tr08.pdf)
+
+## Workshop
+- [CoGamy2025](https://sites.google.com/uniroma1.it/cogamy2025/home?authuser=0) (ICDM Workshop 2025)
