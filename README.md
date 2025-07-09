@@ -72,6 +72,7 @@
 
 ## Text Generation
 
+- [EvoRecipes: A Generative Approach for Evolving Context-Aware Recipe](https://doi.org/10.1109/ACCESS.2023.3296144) (IEEE Access 2023)
 - [Assistive Recipe Editing through Critiquing](https://aclanthology.org/2023.eacl-main.28.pdf) (EACL 2023)
 - [Reading Between the Lines: Exploring Infilling in Visual Narratives](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) (EMNLP 2020)
 - [Routing Enforced Generative Model for Recipe Generation](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) (EMNLP 2020)
@@ -94,6 +95,9 @@
 
 ## Other Application
 
+- [Using diet optimization and machine learning for the design of healthy and acceptable menu plans](https://doi.org/10.1016/j.ejor.2025.06.015) (European Journal of Operational Research 2025)
+- [Adaptafood: an intelligent system to adapt recipes to specialised diets and healthy lifestyles](https://link.springer.com/article/10.1007/s00530-025-01667-y) (Multimedia Systems 2025)
+- [Service-oriented multi-platform for food computing: A mobile application for recipe adaptation to nutrition behaviours (AI2Cuisine)](https://doi.org/10.1016/j.eswa.2025.127603) (Expert Systems with Applications 2025)
 - [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629) (arXiv 2025)
 - [Cooking Task Planning using LLM and Verified by Graph Network](https://arxiv.org/abs/2503.21564) (arXiv 2025)
 - [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
