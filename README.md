@@ -117,6 +117,7 @@
 - [RECIPE4U: Student-ChatGPT Interaction Dataset in EFL Writing Education](https://aclanthology.org/2024.lrec-main.1193.pdf) (LREC-COLING 2024)
 - [Constructing a Culinary Interview Dialogue Corpus with Video Conferencing Tool](https://aclanthology.org/2022.lrec-1.335.pdf) (LREC 2022)
 - [Aligning Actions Across Recipe Graphs](https://aclanthology.org/2021.emnlp-main.554.pdf) (EMNLP 2021)
+- [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://openaccess.thecvf.com/content/CVPR2021/html/Thames_Nutrition5k_Towards_Automatic_Nutritional_Understanding_of_Generic_Food_CVPR_2021_paper.html) (CVPR 2021)
 - [Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes](https://www.aclweb.org/anthology/2020.law-1.8.pdf) (LAW 2020)
 - [Multi-modal Cooking Workflow Construction for Food Recipes](https://arxiv.org/pdf/2008.09151.pdf) (ACM MM 2020)
 - [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
