@@ -122,6 +122,7 @@
 - [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
 - [Visual Grounding Annotation of Recipe Flow Graph](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.527.pdf) (LREC 2020)
 - [English Recipe Flow Graph Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.638.pdf) (LREC 2020)
+- [Towards Automatic Learning of Procedures from Web Instructional Videos](https://ojs.aaai.org/index.php/AAAI/article/view/12342) (AAAI 2018)
 - [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/citation.cfm?id=3080686) (SIGIR 2017)
 - [A Large-Scale Recipe and Meal Data Collection as Infrastructure for Food Research](http://www.lrec-conf.org/proceedings/lrec2016/pdf/320_Paper.pdf) (LREC 2016)
 - [KUSK Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf) (CEA 2016)
