@@ -77,6 +77,7 @@
 - [Routing Enforced Generative Model for Recipe Generation](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) (EMNLP 2020)
 - [Structure-Aware Generation Network for Recipe Generation from Images](https://arxiv.org/pdf/2009.00944.pdf) (ECCV 2020)
 - [RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System](https://arxiv.org/pdf/2003.02498.pdf) (WWW 2020)
+- [RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation](https://aclanthology.org/2020.inlg-1.4.pdf) (INLG 2020)
 - [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
 - [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf) (EMNLP 2019)
 - [Procedural Text Generation from a Photo Sequence](https://www.aclweb.org/anthology/W19-8650.pdf) (INLG 2019)
