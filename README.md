@@ -112,6 +112,7 @@
 - [AI Inspired Recipes: Designing Computationally Creative Food Combos](https://dl.acm.org/doi/10.1145/3290607.3312948) (CHI 2019 Late-Breaking Work)
 - [RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale](https://dl.acm.org/doi/10.1145/3173574.3174025) (CHI 2018)
 - Recipe Popularity Prediction with Deep Visual-Semantic Fusion (CIKM 2017)
+- [Im2Calories: Towards an Automated Mobile Vision Food Diary](https://openaccess.thecvf.com/content_iccv_2015/papers/Meyers_Im2Calories_Towards_an_ICCV_2015_paper.pdf) (ICCV 2015)
 - [Feature Extraction and Summarization of Recipes Using Flow Graph](http://www.lsta.media.kyoto-u.ac.jp/mori/research/public/yamakata-SocInfo13.pdf) (SocInfo 2013)
 
 ## Available Dataset
