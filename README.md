@@ -38,6 +38,7 @@
 - Multimodal Dish Pairing: Predicting Side Dishes to Serve with a Main Dish (CEA++ 2022)
 - [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462965) (SIGIR 2021)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
+- [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://dl.acm.org/doi/abs/10.1145/3209978.3210036) (SIGIR 2018)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
 - [Substructure Similarity Measurement in Chinese Recipes](http://wwwconference.org/www2008/papers/pdf/p979-wang.pdf) (WWW 2008)
