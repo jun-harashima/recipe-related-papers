@@ -16,8 +16,6 @@
 ## Natural-Language Understanding
 
 - [Towards Flow Graph Prediction of Open-Domain Procedural Texts](https://aclanthology.org/2023.repl4nlp-1.8.pdf) (RepL4NLP 2023)
-- [EaT-PIM: Substituting Entities in Procedural Instructions Using Flow Graphs and Embeddings](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_10) (ISWC 2022)
-- [Identifying Ingredient Substitutions Using a Knowledge Graph of Food](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.621766/full) (Frontiers in Artificial Intelligence 2021)
 - [A Method for Extracting Major Workflow composed of Ingredients, Tools, and Actions from Cooking Procedural Text](http://www.lsta.media.kyoto-u.ac.jp/publications/yamakata-CEA16.pdf) (CEA 2016)
 - [Mise en Place: Unsupervised Interpretation of Instructional Recipes](https://www.aclweb.org/anthology/D15-1114.pdf) (EMNLP 2015)
 - [Predicting the Structure of Cooking Recipes](https://www.aclweb.org/anthology/D15-1090.pdf) (EMNLP 2015)
@@ -39,14 +37,21 @@
 
 - Multimodal Dish Pairing: Predicting Side Dishes to Serve with a Main Dish (CEA++ 2022)
 - [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462965) (SIGIR 2021)
-- [Towards Multi-Language Recipe Personalisation and Recommendation](https://nialltwomey.com/assets/pdf/twomey2020towards.pdf) (RecSys 2020)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
-- [Exploiting Food Choice Biases for Healthier Recipe Recommendation](https://www.christophtrattner.info/pubs/SIGIR2017.pdf) (SIGIR 2017)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
-- [Health-aware Food Recommender System](https://www.inf.unibz.it/~ricci/papers/p333-ge-2015.pdf) (RecSys 2015)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
-- [Content-boosted Matrix Factorization for Recommender Systems: Experiments with Recipe Recommendation](http://sas.uwaterloo.ca/~m3zhu/papers/sys031-forbes.pdf) (RecSys 2011)
 - [Substructure Similarity Measurement in Chinese Recipes](http://wwwconference.org/www2008/papers/pdf/p979-wang.pdf) (WWW 2008)
+
+## Personalization and Recommendation
+
+- [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629) (arXiv 2025)
+- [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
+- [RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer](https://ieeexplore.ieee.org/document/9570315) (IEEE Access 2021)
+- [Towards Multi-Language Recipe Personalisation and Recommendation](https://nialltwomey.com/assets/pdf/twomey2020towards.pdf) (RecSys 2020)
+- [SmartRecepies: Towards Cooking and Food Shopping Integration via Mobile Recipes Recommender System](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p144-starychfojtu.pdf) (iiWAS 2020)
+- [Exploiting Food Choice Biases for Healthier Recipe Recommendation](https://www.christophtrattner.info/pubs/SIGIR2017.pdf) (SIGIR 2017)
+- [Health-aware Food Recommender System](https://www.inf.unibz.it/~ricci/papers/p333-ge-2015.pdf) (RecSys 2015)
+- [Content-boosted Matrix Factorization for Recommender Systems: Experiments with Recipe Recommendation](http://sas.uwaterloo.ca/~m3zhu/papers/sys031-forbes.pdf) (RecSys 2011)
 
 ## Question-Answering
 
@@ -75,54 +80,61 @@
 
 - [Assistive Recipe Editing through Critiquing](https://aclanthology.org/2023.eacl-main.28.pdf) (EACL 2023)
 - [SHARE: a System for Hierarchical Assistive Recipe Editing](https://aclanthology.org/2022.emnlp-main.761.pdf) (EMNLP 2022)
-- [Reading Between the Lines: Exploring Infilling in Visual Narratives](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) (EMNLP 2020)
 - [Routing Enforced Generative Model for Recipe Generation](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) (EMNLP 2020)
-- [Structure-Aware Generation Network for Recipe Generation from Images](https://arxiv.org/pdf/2009.00944.pdf) (ECCV 2020)
 - [RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System](https://arxiv.org/pdf/2003.02498.pdf) (WWW 2020)
 - [RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation](https://aclanthology.org/2020.inlg-1.4.pdf) (INLG 2020)
-- [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
 - [Generating Personalized Recipes from Historical User Preferences](https://www.aclweb.org/anthology/D19-1613.pdf) (EMNLP 2019)
-- [Procedural Text Generation from a Photo Sequence](https://www.aclweb.org/anthology/W19-8650.pdf) (INLG 2019)
 - [Simulating Action Dynamics with Neural Process Networks](https://arxiv.org/pdf/1711.05313.pdf) (ICLR 2018)
-- [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/pdf/1812.06164.pdf) (CVPR 2018)
 - [Reference-Aware Language Models](https://www.aclweb.org/anthology/D17-1197.pdf) (EMNLP 2017)
-- [Procedural Text Generation from an Execution Video](https://www.aclweb.org/anthology/I17-1033.pdf) (IJCNLP 2017)
 - [Globally Coherent Text Generation with Neural Checklist Models](https://www.aclweb.org/anthology/D16-1032.pdf) (EMNLP 2016)
 - [FlowGraph2Text: Automatic Sentence Skeleton Compilation for Procedural Text Generation](https://www.aclweb.org/anthology/W14-4418.pdf) (INLG 2014)
+
+## Text Generation (Multimodal)
+
+- [Reading Between the Lines: Exploring Infilling in Visual Narratives](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) (EMNLP 2020)
+- [Structure-Aware Generation Network for Recipe Generation from Images](https://arxiv.org/pdf/2009.00944.pdf) (ECCV 2020)
+- [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
+- [Procedural Text Generation from a Photo Sequence](https://www.aclweb.org/anthology/W19-8650.pdf) (INLG 2019)
+- [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/pdf/1812.06164.pdf) (CVPR 2018)
+- [Procedural Text Generation from an Execution Video](https://www.aclweb.org/anthology/I17-1033.pdf) (IJCNLP 2017)
 
 ## Machine Translation
 
 - [Cultural Adaptation of Recipes](https://arxiv.org/pdf/2310.17353) (TACL 2024)
 - [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 
-## Other Application
+## Ingredient Substitution and Pairing
 
-- [KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models](https://arxiv.org/abs/2505.14629) (arXiv 2025)
-- [Cooking Task Planning using LLM and Verified by Graph Network](https://arxiv.org/abs/2503.21564) (arXiv 2025)
-- [Cuisine Connect: Personalized Recipe Recommender with Language Support](https://ieeexplore.ieee.org/abstract/document/10968777)(ICMLAS 2025)
-- [Culinary Class Wars: Evaluating LLMs using ASH in Cuisine Transfer Task](https://arxiv.org/abs/2411.01996) (arXiv 2024)
-- [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
 - [RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer](https://dl.acm.org/doi/10.1145/3511808.3557092) (CIKM 2022)
-- [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/abs/10.1145/3503161.3549203) (MM 2022)
-- [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
-- [RecipeBowl: A Cooking Recommender for Ingredients and Recipes Using Set Transformer](https://ieeexplore.ieee.org/document/9570315) (IEEE Access 2021)
+- [EaT-PIM: Substituting Entities in Procedural Instructions Using Flow Graphs and Embeddings](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_10) (ISWC 2022)
 - [FlavorGraph: A large-scale food-chemical graph for generating food representations and recommending food pairings](https://www.nature.com/articles/s41598-020-79422-8) (Scientific Report 2021)
-- [SmartRecepies: Towards Cooking and Food Shopping Integration via Mobile Recipes Recommender System](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p144-starychfojtu.pdf) (iiWAS 2020)
-- [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
+- [Identifying Ingredient Substitutions Using a Knowledge Graph of Food](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.621766/full) (Frontiers in Artificial Intelligence 2021)
 - [KitcheNette: Predicting and Ranking Food Ingredient Pairings using Siamese Neural Network](https://www.ijcai.org/proceedings/2019/822) (IJCAI 2019)
 - [AI Inspired Recipes: Designing Computationally Creative Food Combos](https://dl.acm.org/doi/10.1145/3290607.3312948) (CHI 2019 Late-Breaking Work)
+
+## Nutrient Estimation
+
+- [JFC-Recipe: A Dataset for Nutrient Estimation from Japanese User-Generated Cooking Recipes](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.504.pdf) (LREC 2026)
+- [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/abs/10.1145/3503161.3549203) (MM 2022)
+- [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://openaccess.thecvf.com/content/CVPR2021/html/Thames_Nutrition5k_Towards_Automatic_Nutritional_Understanding_of_Generic_Food_CVPR_2021_paper.html) (CVPR 2021)
+- [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
+- [Im2Calories: Towards an Automated Mobile Vision Food Diary](https://openaccess.thecvf.com/content_iccv_2015/papers/Meyers_Im2Calories_Towards_an_ICCV_2015_paper.pdf) (ICCV 2015)
+
+## Other Application
+
+- [Cooking Task Planning using LLM and Verified by Graph Network](https://arxiv.org/abs/2503.21564) (arXiv 2025)
+- [Culinary Class Wars: Evaluating LLMs using ASH in Cuisine Transfer Task](https://arxiv.org/abs/2411.01996) (arXiv 2024)
+- [KitchenScale: Learning to predict ingredient quantities from recipe contexts](https://doi.org/10.1016/j.eswa.2023.120041) (Expert Systems with Applications 2023)
+- [Learning Program Representations for Food Images and Cooking Recipes](http://cookingprograms.csail.mit.edu/papadopoulos22cvpr.pdf) (CVPR 2022)
 - [RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale](https://dl.acm.org/doi/10.1145/3173574.3174025) (CHI 2018)
 - Recipe Popularity Prediction with Deep Visual-Semantic Fusion (CIKM 2017)
-- [Im2Calories: Towards an Automated Mobile Vision Food Diary](https://openaccess.thecvf.com/content_iccv_2015/papers/Meyers_Im2Calories_Towards_an_ICCV_2015_paper.pdf) (ICCV 2015)
 - [Feature Extraction and Summarization of Recipes Using Flow Graph](http://www.lsta.media.kyoto-u.ac.jp/mori/research/public/yamakata-SocInfo13.pdf) (SocInfo 2013)
 
 ## Available Dataset
 
-- [JFC-Recipe: A Dataset for Nutrient Estimation from Japanese User-Generated Cooking Recipes](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.504.pdf) (LREC 2026)
 - [RECIPE4U: Student-ChatGPT Interaction Dataset in EFL Writing Education](https://aclanthology.org/2024.lrec-main.1193.pdf) (LREC-COLING 2024)
 - [Constructing a Culinary Interview Dialogue Corpus with Video Conferencing Tool](https://aclanthology.org/2022.lrec-1.335.pdf) (LREC 2022)
 - [Aligning Actions Across Recipe Graphs](https://aclanthology.org/2021.emnlp-main.554.pdf) (EMNLP 2021)
-- [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://openaccess.thecvf.com/content/CVPR2021/html/Thames_Nutrition5k_Towards_Automatic_Nutritional_Understanding_of_Generic_Food_CVPR_2021_paper.html) (CVPR 2021)
 - [Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes](https://www.aclweb.org/anthology/2020.law-1.8.pdf) (LAW 2020)
 - [Multi-modal Cooking Workflow Construction for Food Recipes](https://arxiv.org/pdf/2008.09151.pdf) (ACM MM 2020)
 - [A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks](https://www.aclweb.org/anthology/2020.acl-main.440.pdf) (ACL 2020)
