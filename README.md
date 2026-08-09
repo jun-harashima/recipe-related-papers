@@ -39,6 +39,7 @@
 - [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462965) (SIGIR 2021)
 - [Recipe1M+: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553) (IEEE TPAMI 2021)
 - [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
+- [R2GAN: Cross-Modal Recipe Retrieval With Generative Adversarial Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_R2GAN_Cross-Modal_Recipe_Retrieval_With_Generative_Adversarial_Network_CVPR_2019_paper.pdf) (CVPR 2019)
 - [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://dl.acm.org/doi/abs/10.1145/3209978.3210036) (SIGIR 2018)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 - [Overview of the NTCIR-11 Cooking Recipe Search Task](https://pdfs.semanticscholar.org/df7c/cd5d4dce4a9935003cda3ec48179ec552484.pdf) (NTCIR-11)
