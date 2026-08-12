@@ -136,6 +136,7 @@
 
 ## Available Dataset
 
+- [COM Kitchens: An Unedited Overhead-view Video Dataset as a Vision-Language Benchmark](https://arxiv.org/pdf/2408.02272) (ECCV 2024)
 - [RECIPE4U: Student-ChatGPT Interaction Dataset in EFL Writing Education](https://aclanthology.org/2024.lrec-main.1193.pdf) (LREC-COLING 2024)
 - [Constructing a Culinary Interview Dialogue Corpus with Video Conferencing Tool](https://aclanthology.org/2022.lrec-1.335.pdf) (LREC 2022)
 - [Aligning Actions Across Recipe Graphs](https://aclanthology.org/2021.emnlp-main.554.pdf) (EMNLP 2021)
