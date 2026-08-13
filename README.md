@@ -29,7 +29,7 @@
 - [Extraction Method for a Recipe's Uniqueness based on Recipe Frequency and LexRank of Procedures](http://www.iiwas.org/conferences/iiwas2020/proceedings/iiwas-papers/p241-oonita.pdf) (iiWAS 2020)
 - [Non-ingredient Detection in User-generated Recipes using the Sequence Tagging Approach](https://www.aclweb.org/anthology/2020.wnut-1.11.pdf) (W-NUT 2020)
 - Knack for Cooking Extraction from User Generated Recipe Sites (iiWAS 2018)
-- [Two-Step Validation in Character-based Ingredient Normalization](https://dl.acm.org/citation.cfm?id=3230589) (CEA 2018)
+- [Two-Step Validation in Character-based Ingredient Normalization](https://dl.acm.org/doi/10.1145/3230519.3230589) (CEA 2018)
 - [Construction of a Cooking Ontology from Cooking Recipes and Patents](https://www.researchgate.net/profile/Toshiyuki_Takezawa/publication/290083159_Construction_of_a_cooking_ontology_from_cooking_recipes_and_patents/links/573133d608ae6cca19a1fea5/Construction-of-a-cooking-ontology-from-cooking-recipes-and-patents.pdf) (CEA 2014)
 - Finding Food Entity Relationships using User-generated Data in Recipe Service (CIKM 2012)
 
@@ -41,13 +41,13 @@
 ## Information Retrieval (Multimodal)
 
 - [Multimodal Dish Pairing: Predicting Side Dishes to Serve with a Main Dish](https://dl.acm.org/doi/10.1145/3552485.3554934) (CEA++ 2022)
-- [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/abs/10.1145/3404835.3462965) (SIGIR 2021)
+- [Hybrid Fusion with Intra- and Cross-Modality Attention for Image-Recipe Retrieval](https://dl.acm.org/doi/10.1145/3404835.3462965) (SIGIR 2021)
 - [Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Salvador_Revamping_Cross-Modal_Recipe_Retrieval_With_Hierarchical_Transformers_and_Self-Supervised_Learning_CVPR_2021_paper.pdf) (CVPR 2021)
 - [Recipe1M+: A Dataset for Learning Cross-Modal Embeddings for Cooking Recipes and Food Images](https://arxiv.org/pdf/1810.06553) (IEEE TPAMI 2021)
-- [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/abs/10.1145/3397271.3401244) (SIGIR 2020)
+- [Recipe Retrieval with Visual Query of Ingredients](https://dl.acm.org/doi/10.1145/3397271.3401244) (SIGIR 2020)
 - [R2GAN: Cross-Modal Recipe Retrieval With Generative Adversarial Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_R2GAN_Cross-Modal_Recipe_Retrieval_With_Generative_Adversarial_Network_CVPR_2019_paper.pdf) (CVPR 2019)
 - [Learning Cross-Modal Embeddings With Adversarial Networks for Cooking Recipes and Food Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf) (CVPR 2019)
-- [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://dl.acm.org/doi/abs/10.1145/3209978.3210036) (SIGIR 2018)
+- [Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings](https://dl.acm.org/doi/10.1145/3209978.3210036) (SIGIR 2018)
 - [Learning Cross-modal Embeddings for Cooking Recipes and Food Images](http://pic2recipe.csail.mit.edu/im2recipe.pdf) (CVPR 2017)
 
 ## Personalization and Recommendation
@@ -65,8 +65,8 @@
 
 - [Temporal-Oriented Recipe for Transferring Large Vision-Language Model to Video Understanding](https://arxiv.org/abs/2505.12605) (arXiv 2025)
 - [Improved Instruction Ordering in Recipe-Grounded Conversation](https://arxiv.org/abs/2305.17280) (ACL 2023)
-- [Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension](https://dl.acm.org/doi/abs/10.1145/3397271.3401247) (SIGIR 2020)
-- [Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance](https://dl.acm.org/doi/abs/10.1145/3397271.3401272) (SIGIR 2020)
+- [Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension](https://dl.acm.org/doi/10.1145/3397271.3401247) (SIGIR 2020)
+- [Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance](https://dl.acm.org/doi/10.1145/3397271.3401272) (SIGIR 2020)
 - [Procedural Reasoning Networks for Understanding Multimodal Procedures](https://aclanthology.org/K19-1041.pdf) (CoNLL 2019)
 - [Real World Voice Assistant System for Cooking](https://www.aclweb.org/anthology/W19-8663.pdf) (INLG 2019)
 - [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://www.aclweb.org/anthology/D18-1166.pdf) (EMNLP 2018)
@@ -74,7 +74,7 @@
 ## Text Clustering
 
 - Cooking Recipe Analysis based on Sequences of Distributed Representation on Procedure Texts and Associated Images (CEA 2020)
-- [Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images](http://dl.acm.org/citation.cfm?doid=3106668.3106676) (CEA 2017)
+- [Method for Detecting Near-duplicate Recipe Creators Based on Cooking Instructions and Food Images](https://dl.acm.org/doi/10.1145/3106668.3106676) (CEA 2017)
 - Clustering for Similar Recipes in User-Generated Recipe Sites Based on Main Ingredients and Main Seasoning (NBiS-2016)
 - [Clustering for Closely Similar Recipes to Extract Spam Recipes in User-generated Recipe Sites](http://nlp.indsys.chuo-u.ac.jp/pdf/2015/hanai_iiwas2015.pdf) (iiWAS 2015)
 
@@ -123,7 +123,7 @@
 ## Nutrient Estimation
 
 - [JFC-Recipe: A Dataset for Nutrient Estimation from Japanese User-Generated Cooking Recipes](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.504.pdf) (LREC 2026)
-- [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/abs/10.1145/3503161.3549203) (MM 2022)
+- [Recipe-oriented Food Logging for Nutritional Management](https://dl.acm.org/doi/10.1145/3503161.3549203) (MM 2022)
 - [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://openaccess.thecvf.com/content/CVPR2021/html/Thames_Nutrition5k_Towards_Automatic_Nutritional_Understanding_of_Generic_Food_CVPR_2021_paper.html) (CVPR 2021)
 - [Calorie Estimation in a Real-World Recipe Service](https://aaai.org/Papers/AAAI/2020GB/IAAI-HarashimaJ.133.pdf) (IAAI-20)
 - [Im2Calories: Towards an Automated Mobile Vision Food Diary](https://openaccess.thecvf.com/content_iccv_2015/papers/Meyers_Im2Calories_Towards_an_ICCV_2015_paper.pdf) (ICCV 2015)
@@ -150,7 +150,7 @@
 - [Visual Grounding Annotation of Recipe Flow Graph](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.527.pdf) (LREC 2020)
 - [English Recipe Flow Graph Corpus](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.638.pdf) (LREC 2020)
 - [Towards Automatic Learning of Procedures from Web Instructional Videos](https://ojs.aaai.org/index.php/AAAI/article/view/12342) (AAAI 2018)
-- [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/citation.cfm?id=3080686) (SIGIR 2017)
+- [Cookpad Image Dataset: An Image Collection as Infrastructure for Food Research](https://dl.acm.org/doi/10.1145/3077136.3080686) (SIGIR 2017)
 - [A Large-Scale Recipe and Meal Data Collection as Infrastructure for Food Research](http://www.lrec-conf.org/proceedings/lrec2016/pdf/320_Paper.pdf) (LREC 2016)
 - [KUSK Object Dataset: Recording Access to Objects in Food Preparation](http://www.ar.media.kyoto-u.ac.jp/publications/hashimoto-CEA16.pdf) (CEA 2016)
 - [KUSK Dataset: Toward a Direct Understanding of Recipe Text and Human Cooking Activity](http://ubicomp.org/ubicomp2014/proceedings/ubicomp_adjunct/workshops/CEA/p583-hashimoto.pdf) (CEA 2014)
