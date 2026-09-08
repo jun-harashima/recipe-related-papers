@@ -89,6 +89,7 @@
 
 - [Assistive Recipe Editing through Critiquing](https://aclanthology.org/2023.eacl-main.28.pdf) (EACL 2023)
 - [SHARE: a System for Hierarchical Assistive Recipe Editing](https://aclanthology.org/2022.emnlp-main.761.pdf) (EMNLP 2022)
+- [Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario](https://aclanthology.org/2022.emnlp-main.497.pdf) (EMNLP 2022)
 - [Routing Enforced Generative Model for Recipe Generation](https://www.aclweb.org/anthology/2020.emnlp-main.311.pdf) (EMNLP 2020)
 - [RecipeGPT: Generative Pre-training Based Cooking Recipe Generation and Evaluation System](https://arxiv.org/pdf/2003.02498.pdf) (WWW 2020)
 - [RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation](https://aclanthology.org/2020.inlg-1.4.pdf) (INLG 2020)
