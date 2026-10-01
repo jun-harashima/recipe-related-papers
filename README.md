@@ -110,6 +110,7 @@
 
 ## Machine Translation
 
+- [Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation](https://aclanthology.org/2026.acl-long.111.pdf) (ACL 2026)
 - [Cultural Adaptation of Recipes](https://arxiv.org/pdf/2310.17353) (TACL 2024)
 - [Japanese-English Machine Translation of Recipe Texts](https://www.aclweb.org/anthology/W16-4603.pdf) (WAT 2016)
 
