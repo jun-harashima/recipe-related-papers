@@ -101,6 +101,7 @@
 
 ## Text Generation (Multimodal)
 
+- [FIRE: Food Image to REcipe Generation](https://openaccess.thecvf.com/content/WACV2024/papers/Chhikara_FIRE_Food_Image_to_REcipe_Generation_WACV_2024_paper.pdf) (WACV 2024)
 - [Reading Between the Lines: Exploring Infilling in Visual Narratives](https://www.aclweb.org/anthology/2020.emnlp-main.93.pdf) (EMNLP 2020)
 - [Structure-Aware Generation Network for Recipe Generation from Images](https://arxiv.org/pdf/2009.00944.pdf) (ECCV 2020)
 - [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
