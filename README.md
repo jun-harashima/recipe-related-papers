@@ -87,6 +87,7 @@
 
 ## Text Generation
 
+- [Cooking Up Creativity: Enhancing LLM Creativity through Structured Recombination](https://aclanthology.org/2026.tacl-1.20.pdf) (TACL 2026)
 - [Assistive Recipe Editing through Critiquing](https://aclanthology.org/2023.eacl-main.28.pdf) (EACL 2023)
 - [SHARE: a System for Hierarchical Assistive Recipe Editing](https://aclanthology.org/2022.emnlp-main.761.pdf) (EMNLP 2022)
 - [Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario](https://aclanthology.org/2022.emnlp-main.497.pdf) (EMNLP 2022)
