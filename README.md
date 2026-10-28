@@ -106,7 +106,7 @@
 - [Structure-Aware Generation Network for Recipe Generation from Images](https://arxiv.org/pdf/2009.00944.pdf) (ECCV 2020)
 - [Storyboarding of Recipes: Grounded Contextual Generation](https://www.aclweb.org/anthology/P19-1606.pdf) (ACL 2019)
 - [Procedural Text Generation from a Photo Sequence](https://www.aclweb.org/anthology/W19-8650.pdf) (INLG 2019)
-- [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/pdf/1812.06164.pdf) (CVPR 2019)
+- [Inverse Cooking: Recipe Generation from Food Images](https://openaccess.thecvf.com/content_CVPR_2019/papers/Salvador_Inverse_Cooking_Recipe_Generation_From_Food_Images_CVPR_2019_paper.pdf) (CVPR 2019)
 - [Procedural Text Generation from an Execution Video](https://www.aclweb.org/anthology/I17-1033.pdf) (IJCNLP 2017)
 
 ## Machine Translation
